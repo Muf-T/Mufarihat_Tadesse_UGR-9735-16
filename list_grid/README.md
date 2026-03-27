@@ -1,17 +1,9 @@
-# list_grid
+# 👤 Catalog App
 
-A new Flutter project.
+## 📸 Project Screenshots
+| App UI |                  Widget Tree1                  | Widget Tree2  |
+| :---: |:----------------------------------------------:|
+| ![App Screenshot](./screenshots/theUi.png) | ![Widget Tree1](./screenshots/widget_tree1.png) | ![Widget Tree2](./screenshots/widget_tree2.png) |
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Developed as part of the Mobile App Development Lab.*
