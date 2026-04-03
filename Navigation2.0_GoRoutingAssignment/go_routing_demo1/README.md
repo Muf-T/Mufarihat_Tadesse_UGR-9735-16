@@ -5,8 +5,8 @@
 ##App Screenshots
 | Home Screen | Details Screen |
 |:-------------------:| :-----------: |
-| ![Home Screen] (./screenshots/app_ui1.png) | ![Details Screen] (./screenshots/app_ui2.png) |
+| ![Home Screen](./screenshots/app_ui1.png) | ![Details Screen](./screenshots/app_ui2.png) |
 
 ##Widget Tree
 
-![Widget Tree] (./screenshots/widget_tree.png)
+![Widget Tree](./screenshots/widget_tree.png)
