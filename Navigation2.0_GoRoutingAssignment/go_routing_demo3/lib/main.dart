@@ -1,33 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'screens/home_screen.dart';
+import 'screens/details_screen.dart';
 
-class HomeScreen extends StatelessWidget{
-  const HomeScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: const Text('Home')),
-      body: Center(
-        child: ElevatedButton(
-          onPressed: () => context.goNamed('details'),
-          child: const Text('Go to Details'),
-        ),
-      ),
-    );
-  }
-}
-class DetailsScreen extends StatelessWidget{
-  const DetailsScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: const Text('Details')),
-      body: const Center(child: Text('This is the details screen!')),
-    );
-  }
-}
 
 class MyApp extends StatelessWidget{
   const MyApp({super.key});
